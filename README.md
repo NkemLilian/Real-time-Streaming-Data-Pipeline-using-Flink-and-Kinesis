@@ -35,7 +35,7 @@ Monitoring & Visualization
 
 Notifications & Alerts
 	•	Amazon SNS
-	•	Triggered by AWS Lambda when specific conditions or thresholds are met.
+	•	Triggered when AWS Lambda is down, fails, or becomes unresponsive.
 	•	Sends alerts or notifications to subscribed endpoints (email, SMS, etc.).
 Data Flow Summary
 	1.	Accident CSV stored in S3
